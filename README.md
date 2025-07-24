@@ -111,7 +111,7 @@ Make sure you have Python 3.x installed.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 *(Note: You should create a `LICENSE` file in your repository with the MIT License text if you don't have one.)*
 
 ---
