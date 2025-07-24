@@ -107,4 +107,25 @@ Make sure you have Python 3.x installed.
     * Build and train the CNN models for age and gender prediction.
     * Evaluate model performance.
 
-## 📁 Project Structure
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+*(Note: You should create a `LICENSE` file in your repository with the MIT License text if you don't have one.)*
+
+---
+
+## 🙏 Acknowledgments
+
+* The developers of the UTKFace dataset.
+* The TensorFlow and Keras teams for their powerful libraries.
+
+---
+
+## ✉️ Contact 👋
+
+Feel free to reach out if you have any questions or just want to connect!
+
+* **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/m-anas-inam/))
+* **Email:** [annus.inam@gmail.com]
