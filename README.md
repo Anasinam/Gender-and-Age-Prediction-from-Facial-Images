@@ -1,6 +1,10 @@
-<p align="center">
-  <"Gender and Age Prediction from Facial Images" width="300"/>
-</p>
+# Gender and Age Prediction
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-green.svg)](https://keras.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project focuses on building a deep learning model to accurately predict gender and age from facial images. The model is trained and evaluated using the UTKFace dataset.
 
 ## Features
