@@ -11,12 +11,6 @@
 
 This project delves into the fascinating field of computer vision to build a robust deep learning model capable of predicting both gender and age from facial images. Leveraging the power of Convolutional Neural Networks (CNNs), the model is trained on a diverse dataset to recognize subtle features indicative of age and gender. This kind of technology has applications in various domains, from targeted advertising to security and demographics analysis.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Example+Prediction+Output" alt="Example Prediction Output (Placeholder)" title="Replace with an actual screenshot of your project's output or a sample prediction.">
-  <br>
-  <em>(Replace this placeholder with a compelling image or GIF demonstrating your project in action!)</em>
-</p>
-
 ## ✨ Features
 
 * **Accurate Age Prediction:** Predicts the approximate age of an individual.
