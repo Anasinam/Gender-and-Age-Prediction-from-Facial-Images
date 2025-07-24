@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Gender and Age Prediction from Facial Images" width="300"/>
+  <"Gender and Age Prediction from Facial Images" width="300"/>
 </p>
 This project focuses on building a deep learning model to accurately predict gender and age from facial images. The model is trained and evaluated using the UTKFace dataset.
 
